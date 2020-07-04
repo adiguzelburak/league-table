@@ -1,0 +1,6 @@
+C:\Users\adigu\source\repos\LİG\LİG\bin\Debug\LİG.exe.config
+C:\Users\adigu\source\repos\LİG\LİG\bin\Debug\LİG.exe
+C:\Users\adigu\source\repos\LİG\LİG\bin\Debug\LİG.pdb
+C:\Users\adigu\source\repos\LİG\LİG\obj\Debug\LİG.csproj.CoreCompileInputs.cache
+C:\Users\adigu\source\repos\LİG\LİG\obj\Debug\LİG.exe
+C:\Users\adigu\source\repos\LİG\LİG\obj\Debug\LİG.pdb
